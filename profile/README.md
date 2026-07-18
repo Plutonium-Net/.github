@@ -1,12 +1,33 @@
-## Hi there 👋
+# Plutonium Network
 
-<!--
+Plutonium is an unblocked games network. We build and host web-based games and tools that work on school and office networks where most gaming sites get blocked.
 
-**Here are some ideas to get you started:**
+## Roadmap
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**V0**: UI Development (info, pages, credits, etc), Accounts intro
+
+**V1**: Games (3 sources: lumin, gn-math, customsdk)
+
+**V1.1**: Proxy (uv, sj), possible implementation of flux in a future version
+
+**V1.2**: AI (groq, maybe BYOK)
+
+**V1.3**: Media/TV (tmdb and videasy/vidcore maybe)
+
+**V1.4**: Virtual Machines (chromium only)
+
+**V1.5**: Cloud Gaming
+
+**Release**: Onboarding, encrypted messaging, file transferring
+
+## Status
+
+Actively maintained. Domains get blocked sometimes, and when that happens we spin up new ones and update links here and on the main site.
+
+## Contributing
+
+PRs welcome. If you want to add a game, fix a proxy, or help with the frontend, open an issue first so we can coordinate.
+
+## Contact
+
+Reach out through issues on the relevant repo, or check the main site for other contact info.

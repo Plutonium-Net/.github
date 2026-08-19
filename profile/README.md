@@ -175,5 +175,3 @@ Check the `LICENSE` file in each repository for the applicable terms.
 ---
 
 **Plutonium Network**
-
-*Build freely. Experiment relentlessly.*
